@@ -1,0 +1,15 @@
+/* Extra small devices (phones, less than 768px) */
+/* No media query since this is the default in Bootstrap */
+
+/* Small devices (tablets, 768px and up)
+@media (min-width: @screen-sm-min) { ... } */
+
+h2{
+    display:inline-block;
+}
+
+.jumbotron {
+    background-image: url("../nasa-mars-mission-plan.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
